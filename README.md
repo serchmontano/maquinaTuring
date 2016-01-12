@@ -3,5 +3,6 @@ Maquina de Turing con modo gráfico que almacena en una imagen la cadena analiza
 
 Escuela Superior de Computo
 ---------------------------
-*Sergio Montaño Europa. 2015.*
+*Sergio Montaño Europa. 2015.* 
+
 *serch_montano@outlook.com*
